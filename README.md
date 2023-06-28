@@ -1,2 +1,3 @@
 # JavascriptFunctionality
-Implementing my first ever DOM manipulation through a basic bulb toggling project
+Implementing my first ever DOM manipulation through a basic bulb toggling project.
+As the framework Reactjs made a developer's life easier, understanding how things work internally still stands mandatory for a developer. DOM manipulation[Document Object Model manipulaltion] is an important topic that allows us to create, change, or remove elements from the document be it the html elements or their respective styling. We can also add events to these elements to make our page more interactive for eg, in the attached projrct as we have used the property addEventListener which is triggered when the mentioned atction takes place.
